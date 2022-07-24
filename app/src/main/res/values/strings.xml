@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Centennial College Library</string>
+    <string name="fiction">Fiction</string>
+    <string name="non_fiction">Non-Fiction</string>
+    <string name="educational">Educational</string>
+    <string name="history">History</string>
+    <string-array name="categories">
+        <item>Fiction</item>
+        <item>Non-Fiction</item>
+        <item>Educational</item>
+        <item>History</item>
+    </string-array>
+    <string name="title_activity_librarian_login">LibrarianLogin</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="book_title">Book Title</string>
+    <string name="author_s_name">Author\'s Name</string>
+    <string name="description">Description</string>
+    <string name="categories">Fiction / NonFiction / Educational / History</string>
+    <string name="quantity">Quantity</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_description">Book Description</string>
+    <string name="book_category">Book Category</string>
+    <string name="book_quantity">Book Quantity</string>
+    <string name="borrow_this_book">Borrow this Book</string>
+    <string name="username">Username</string>
+    <string name="librarian_id">Librarian ID</string>
+    <string name="password">password</string>
+    <string name="librarian_sign_up">LIBRARIAN SIGN_UP</string>
+    <string name="librarian_login">LIBRARIAN LOGIN</string>
+    <string name="student_login_sign_up">Student Login/Sign Up</string>
+    <string name="id"># ID</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="passwordlib">Password</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="student_id">Student ID</string>
+    <string name="passwordstu">password</string>
+    <string name="student_sign_up">STUDENT SIGN_UP</string>
+    <string name="student_login">STUDENT LOGIN</string>
+    <string name="librarian_login_sign_up">Librarian Login/Sign Up</string>
+    <string name="_10">10</string>
+    <string name="book_titlec">Book Title</string>
+    <string name="book_authorc">Book Author</string>
+    <string name="descriptionc">Description</string>
+    <string name="category">Category</string>
+    <string name="student_idp">Student ID</string>
+    <string name="bookid">bookId</string>
+    <string name="bookname">bookName</string>
+</resources>

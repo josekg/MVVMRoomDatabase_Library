@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cat_fiction"
+        android:title="@string/fiction">
+
+    </item>
+    <item
+        android:id="@+id/cat_nonfic"
+        android:title="@string/non_fiction">
+
+    </item>
+    <item
+        android:id="@+id/cat_educ"
+        android:title="@string/educational">
+
+    </item>
+    <item
+        android:id="@+id/cat_history"
+        android:title="@string/history">
+
+    </item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out">
+
+    </item>
+
+</menu>
